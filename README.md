@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musab Ahmad</h1>
 <h3 align="center">A Passionate Cyber Security Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musabahmad023&label=Profile%20views&color=0e75b6&style=flat" alt="musabahmad023" /> </p>
-
 - 💬 Ask me about **Cyber Security , Programming Languages**
 
 - 📫 How to reach me **masabahmed786@gmail.com**
